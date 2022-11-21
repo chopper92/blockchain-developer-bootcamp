@@ -1,13 +1,12 @@
-# Sample Hardhat Project
+# Hopper Token Exchange 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+* This project demonstrates a pseudo token exchange (DApp & mETH tokens) that allows the user to trade tokens from one Metamask wallet to another. Displays order book, trade, and price history. 
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+* Programming Languages: 
+  - Solidity 
+  - JavaScript 
+  
+* Frameworks: 
+  - React, Redux
+  - Hardhat 
+  - Web3.js, Ethers.js
